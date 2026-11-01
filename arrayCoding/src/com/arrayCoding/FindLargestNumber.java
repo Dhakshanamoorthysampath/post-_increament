@@ -19,6 +19,7 @@ public class FindLargestNumber {
 			}
 		}
 		System.out.println("max value = " + max);
+		System.out.println(max);
 	}
 
 	/*
